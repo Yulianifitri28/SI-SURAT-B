@@ -1,0 +1,865 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"user",
+				"User"
+			],
+			[
+				"Sessio",
+				"session_destroy"
+			],
+			[
+				"emp",
+				"employee"
+			],
+			[
+				"a",
+				"arrayName"
+			],
+			[
+				"ar",
+				"array"
+			],
+			[
+				"arr",
+				"array	$… = array (…)"
+			],
+			[
+				"re",
+				"request"
+			],
+			[
+				"res",
+				"res"
+			],
+			[
+				"data",
+				"data-role"
+			],
+			[
+				"s",
+				"show"
+			],
+			[
+				"on",
+				"onclick	Attr"
+			],
+			[
+				"timestam",
+				"variant_date_to_timestamp"
+			],
+			[
+				"va",
+				"value"
+			],
+			[
+				"if",
+				"if	if"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"div",
+				"divbox"
+			],
+			[
+				"l",
+				"level"
+			],
+			[
+				"do",
+				"document"
+			],
+			[
+				"dom",
+				"domlevel"
+			],
+			[
+				"d",
+				"display"
+			],
+			[
+				"get",
+				"getElementById"
+			],
+			[
+				"op",
+				"option	Tag"
+			],
+			[
+				"st",
+				"style	Tag"
+			],
+			[
+				"tr",
+				"tr	Tag"
+			],
+			[
+				"for",
+				"form	Tag"
+			],
+			[
+				"K",
+				"keranjangBelanja"
+			],
+			[
+				"GET",
+				"getHargaJual"
+			],
+			[
+				"bara",
+				"barang02"
+			],
+			[
+				"barang",
+				"barang01"
+			],
+			[
+				"harga",
+				"hargajual"
+			],
+			[
+				"har",
+				"hargajual"
+			],
+			[
+				"f",
+				"font-family"
+			],
+			[
+				"fon",
+				"font-style"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "WelcomeController.php",
+			"settings":
+			{
+				"buffer_size": 1266,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "@extends('layouts.master')\n\n@section('konten')\n\n Selamat Datang di Sistem Informasi Persuratan JSI\n@stop\n",
+			"file": "/D/SI Data/Semester 6/RPL/SuratJSI/resources/views/admin/home.blade.php",
+			"file_size": 234,
+			"file_write_time": 131085210377200106,
+			"settings":
+			{
+				"buffer_size": 105,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "SrtklrController.php",
+			"settings":
+			{
+				"buffer_size": 383,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/D/SI Data/Semester 6/RPL/SuratJSI/resources/views/layouts/master.blade.php",
+			"settings":
+			{
+				"buffer_size": 8489,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/D/SI Data/Semester 6/RPL/SuratJSI/app/Http/routes.php",
+			"settings":
+			{
+				"buffer_size": 890,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/D/SI Data/Semester 6/RPL/SuratJSI/resources/views/admin/lihatsm.blade.php",
+			"settings":
+			{
+				"buffer_size": 1786,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "SrtmskController.php",
+			"settings":
+			{
+				"buffer_size": 1532,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/D/SI Data/Semester 6/RPL/SuratJSI/resources/views/admin/inputsm.blade.php",
+			"settings":
+			{
+				"buffer_size": 5365,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/D/SI Data/Semester 6/RPL/SuratJSI/resources/views/admin/lihatsk.blade.php",
+			"settings":
+			{
+				"buffer_size": 1960,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/D/SI Data/Semester 6/RPL/SuratJSI",
+		"/D/SI Data/Semester 6/RPL/SuratJSI/app",
+		"/D/SI Data/Semester 6/RPL/SuratJSI/app/Http",
+		"/D/SI Data/Semester 6/RPL/SuratJSI/app/Http/Controllers",
+		"/D/SI Data/Semester 6/RPL/SuratJSI/app/Http/Middleware",
+		"/D/SI Data/Semester 6/RPL/SuratJSI/resources",
+		"/D/SI Data/Semester 6/RPL/SuratJSI/resources/views",
+		"/D/SI Data/Semester 6/RPL/SuratJSI/resources/views/admin",
+		"/D/SI Data/Semester 6/RPL/SuratJSI/resources/views/layouts"
+	],
+	"file_history":
+	[
+		"/D/SI Data/Semester 6/RPL/laravel/resources/views/admin/inputsm.blade.php",
+		"/D/SI Data/Semester 6/RPL/laravel/resources/views/auth/login.blade.php",
+		"/D/SI Data/Semester 6/RPL/laravel/resources/views/login/login.blade.php",
+		"/D/SI Data/Semester 6/RPL/SuratJSI/app/Http/Controllers/AuthController.php",
+		"/D/SI Data/Semester 6/RPL/SuratJSI/app/Http/Controllers/AdminController.php",
+		"/D/SI Data/Semester 6/RPL/SuratJSI/app/User.php",
+		"/D/SI Data/Semester 6/RPL/SuratJSI/app/Http/Controllers/Auth/AuthController.php",
+		"/D/SI Data/Semester 6/RPL/SuratJSI/app/SuratMasuk.php",
+		"/D/SI Data/Semester 6/RPL/SuratJSI/config/app.php",
+		"/D/SI Data/Semester 6/RPL/SuratJSI/resources/views/layouts/app.blade.php",
+		"/D/SI Data/Semester 6/RPL/SuratJSI/resources/views/auth/login.blade.php",
+		"/D/SI Data/Semester 6/RPL/SuratJSI/app/Http/Middleware/VerifyCsrfToken.php",
+		"/D/SI Data/Semester 6/RPL/SuratJSI/.env",
+		"/D/SI Data/Semester 6/TISI/apaa/apaa/index.php",
+		"/D/SI Data/Semester 6/TISI/apaa/apaa/login_act.php",
+		"/D/SI Data/Semester 6/TISI/apaa/apaa/admin/barang_laku_act.php",
+		"/D/SI Data/Semester 6/RPL/laravel/.env",
+		"/C/xampp/htdocs/apaa/password.php",
+		"/C/Users/Razorback/AppData/Local/Temp/Rar$DI00.973/artisan.md",
+		"/D/SI Data/Semester 6/TISI/apaa/apaa/admin/cek.php",
+		"/D/SI Data/Semester 6/TISI/apaa/apaa/password.php",
+		"/D/SI Data/Semester 6/RPL/laravel/laravel/resources/views/login/login.blade.php",
+		"/D/SI Data/Semester 6/RPL/pb/pb/app/Http/Controllers/admpw.php",
+		"/D/SI Data/Semester 6/RPL/laravel/laravel/.env",
+		"/C/Users/Razorback/AppData/Local/Temp/Rar$DI10.017/routes.php",
+		"/C/Users/Razorback/AppData/Local/Temp/Rar$DI09.598/pages_controller.php",
+		"/C/Users/Razorback/AppData/Local/Temp/Rar$DI03.740/routes.php",
+		"/C/Users/Razorback/AppData/Local/Temp/Rar$DI02.447/index.php",
+		"/C/Users/Razorback/AppData/Local/Temp/Rar$DI01.808/connection.php",
+		"/D/SI Data/Semester 6/RPL/SuratSI/public/index.php",
+		"/D/SI Data/Semester 6/RPL/pb/pb/public/index.php",
+		"/D/SI Data/Semester 6/RPL/pb/pb/server.php",
+		"/D/SI Data/Semester 3/BP1/tugasbesar/app/views/login.blade.php",
+		"/D/SI Data/Semester 6/RPL/SuratSI/resources/views/welcome.blade.php",
+		"/D/SI Data/Semester 6/RPL/SuratSI/resources/views/default.blade.php",
+		"/D/SI Data/Semester 6/RPL/pb/pb/app/eskul.php",
+		"/D/SI Data/Semester 6/RPL/SuratSI/server.php",
+		"/D/SI Data/Semester 6/RPL/pb/pb/resources/views/welcome.blade.php",
+		"/D/SI Data/Semester 6/RPL/pb/pb/readme.md",
+		"/D/SI Data/Semester 3/BP1/tugasbesar/app/routes.php",
+		"/C/Users/Razorback/Documents/Folder/Tbpweb/app/Http/routes.php",
+		"/C/Users/Razorback/Documents/Folder/Tbpweb/app/Http/Controllers/user.php",
+		"/D/SI Data/Semester 3/BP1/tugasbesar/app/controllers/UserController.php",
+		"/C/Users/Razorback/Documents/Folder/Tbpweb/resources/views/login.blade.php",
+		"/C/Users/Razorback/Documents/Folder/Tbpweb/app/Http/Controllers/Auth/AuthController.php",
+		"/C/Users/Razorback/Downloads/login.blade.php",
+		"/C/Users/Razorback/AppData/Local/Temp/Rar$DI08.278/artisan.md",
+		"/C/Users/Razorback/Documents/Folder/Tbpweb/app/Http/Controllers/UserController.php",
+		"/C/Users/Razorback/Documents/Folder/Tbpweb/app/Http/Controllers/Controller.php",
+		"/C/Users/Razorback/Documents/Folder/Tbpweb/public/index.php",
+		"/D/SI Data/Semester 3/BP1/tugasbesar/app/controllers/BaseController.php",
+		"/C/Users/Razorback/Documents/Folder/Tbpweb/resources/views/welcome.blade.php",
+		"/D/SI Data/Semester 3/BP1/tugasbesar/app/controllers/RBTAController.php",
+		"/C/Users/Razorback/Documents/Folder/Tbpweb/.env",
+		"/C/Users/Razorback/Documents/Folder/Tbpweb/database/migrations/2014_10_12_100000_create_password_resets_table.php",
+		"/C/Users/Razorback/Documents/Folder/Tbpweb/database/migrations/2016_04_24_084823_useraa.php",
+		"/C/Users/Razorback/Documents/Folder/Tbpweb/database/migrations/2014_10_12_000000_create_users_table.php",
+		"/C/Users/Razorback/Documents/Folder/Tbpweb/database/migrations/2016_04_24_084426_create_users_table.php",
+		"/C/xampp/htdocs/tisielsa/config.php",
+		"/C/xampp/htdocs/tisielsa/customer.php",
+		"/C/xampp/htdocs/tisielsa/penjadwalan.php",
+		"/C/xampp/htdocs/tisielsa/event.php",
+		"/C/xampp/htdocs/tisielsa/index.php",
+		"/C/xampp/htdocs/tisielsa/transaksi.php",
+		"/C/xampp/htdocs/tisielsa/employee.php",
+		"/C/xampp/htdocs/tisielsa/laporan.php",
+		"/D/SI Data/Semester 5/PWeb/Praktikum/Praktikum/1/script.js",
+		"/C/xampp/htdocs/tisielsa/js/jquery-1.12.2.js",
+		"/C/xampp/htdocs/tisielsa/js/jquery.js",
+		"/D/SI Data/Semester 6/TISI/tisielsa/index.html",
+		"/D/SI Data/Semester 6/TISI/tisielsa/index.php",
+		"/C/xampp/htdocs/server/filterlaptop.php",
+		"/C/xampp/htdocs/server/filterhp.php",
+		"/C/xampp/htdocs/server/filterkamera.php",
+		"/C/xampp/htdocs/server/ambildata.php",
+		"/C/xampp/htdocs/server/detail.php",
+		"/C/xampp/htdocs/server/ambilhot.php",
+		"/C/xampp/htdocs/server/ambilfoto.php",
+		"/C/xampp/htdocs/tebe/www/js/index.js",
+		"/C/xampp/htdocs/salonerp/config/sql.php",
+		"/C/xampp/htdocs/tebe/www/index.html",
+		"/D/SI Data/Semester 6/TISI/salonerp/index.php",
+		"/E/htdocs/tebe/www/spec/helper.js",
+		"/E/htdocs/karyawan/connect.php",
+		"/C/Users/Razorback/AppData/Local/Temp/Rar$DI01.438/index.js",
+		"/C/Users/Razorback/AppData/Local/Temp/Rar$DI00.868/index.js",
+		"/C/xampp/htdocs/hellooow/www/js/index.js",
+		"/C/xampp/htdocs/hellooow/www/index.html",
+		"/C/xampp/htdocs/tebe/www/spec/index.js",
+		"/C/xampp/htdocs/Lemonado/lemonado/gallery.html",
+		"/C/xampp/htdocs/Lemonado/lemonado/index.html",
+		"/C/xampp/htdocs/servera/cekmeja.php",
+		"/C/xampp/htdocs/servera/menu2.php",
+		"/C/xampp/htdocs/server/filter.php",
+		"/C/xampp/htdocs/tebe/www/css/index.css",
+		"/D/SI Data/Semester 5/PWeb/Praktikum/Praktikum/4/mod4.html",
+		"/D/SI Data/Semester 5/PWeb/Praktikum/Praktikum/4/mod4.js",
+		"/C/xampp/htdocs/tebe/www/css/jquery.mobile-1.4.5.min.css",
+		"/D/SI Data/Semester 5/PWeb/Praktikum/Praktikum/3/mod3.js",
+		"/C/xampp/htdocs/server/simpan.php",
+		"/C/xampp/htdocs/server/updatemeja.html",
+		"/C/xampp/htdocs/server/updatemeja.php",
+		"/C/xampp/htdocs/server/updatemeja1.php",
+		"/C/xampp/htdocs/server/updatemeja2.php",
+		"/C/xampp/htdocs/server/menu2.php",
+		"/C/xampp/htdocs/server/menu.php",
+		"/C/xampp/htdocs/server/meja.php",
+		"/C/xampp/htdocs/server/cekmeja.php",
+		"/C/xampp/htdocs/TB/www/index.html",
+		"/C/xampp/htdocs/servera/updatemeja2.php",
+		"/C/xampp/htdocs/hellooow/www/js/jquery.js",
+		"/C/xampp/htdocs/sumbarang/www/index.html",
+		"/C/Users/Razorback/prkt7/plugins/cordova-plugin-dialogs/www/notification.js",
+		"/C/xampp/htdocs/TB/www/js/klass.min.js",
+		"/C/xampp/htdocs/TB/www/js/custom.js",
+		"/C/xampp/htdocs/TB/www/css/index.css",
+		"/C/xampp/htdocs/TB/www/css/owl.carousel.css",
+		"/C/xampp/htdocs/TB/www/css/style.css",
+		"/C/Users/Razorback/Documents/Bluetooth Folder/mod5.html",
+		"/C/xampp/htdocs/TeBe/www/index.html",
+		"/C/xampp/htdocs/TB/www/css/owl.theme.css",
+		"/C/xampp/htdocs/TB/www/js/code.photoswipe.jquery-3.0.5.min.js",
+		"/C/xampp/htdocs/TB/www/anu.html",
+		"/C/xampp/htdocs/TB/www/gallery.html",
+		"/D/SI Data/Semester 5/PWeb/TEBE/TB/www/index.html",
+		"/C/Users/Razorback/prkt7/www/index.html",
+		"/C/Users/Razorback/Kurs/Kurs/www/index.html",
+		"/C/Users/Razorback/prkt7/www/js/index.js"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"$user",
+			"}\n",
+			") }}\"",
+			"asset(",
+			".2",
+			") }}\"></script>",
+			"<script src=\"{{ asset(",
+			") }}\" rel=\"stylesheet\" />",
+			") }}\" rel=\"stylesheet\">",
+			"<link href=\"{{ asset(",
+			"endsection",
+			"welcome",
+			"halaman",
+			"tisi4",
+			"/'+",
+			"/'",
+			"foto",
+			"img src",
+			"192.168.43.54",
+			"input",
+			"div",
+			"192.168.1.111",
+			"$akse = 'SELECT nama, merk FROM akse WHERE hot = 1';\n$laptop = 'SELECT nama, merk FROM laptop WHERE hot = 1';\n$hardware = 'SELECT nama, merk FROM hardware WHERE hot = 1';\n$hp = 'SELECT nama, merk FROM hp WHERE hot = 1';",
+			"i92",
+			"localhost",
+			"foto",
+			"img src=\"",
+			"detail(",
+			"img src=\"localhost",
+			"img src=\"",
+			"172.16.89.5",
+			"img",
+			"input",
+			"ramh",
+			"ram",
+			"pilih",
+			"filt",
+			"filter",
+			"range",
+			"home",
+			"172.16.89.85",
+			"172.16.89.26",
+			"192.168.1.159",
+			"home",
+			"simpan",
+			"page",
+			"heade",
+			"body",
+			"style.css",
+			"assets/",
+			"<tr>",
+			"</tr>",
+			"td",
+			"tr",
+			"td",
+			"tr",
+			"td",
+			"testing",
+			">          "
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"') }}\"",
+			"asset('",
+			"') }}",
+			"{{ HTML::script('",
+			"')}}",
+			"{{HTML::style('",
+			"172.20.10.9",
+			"172.16.89.85"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"folders":
+	[
+		{
+			"path": "D:\\SI Data\\Semester 6\\RPL\\SuratJSI"
+		}
+	],
+	"groups":
+	[
+		{
+			"selected": 6,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "WelcomeController.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1266,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1237,
+								1237
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 381.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 8,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/D/SI Data/Semester 6/RPL/SuratJSI/resources/views/admin/home.blade.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 105,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								47,
+								47
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "SrtklrController.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 383,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								352,
+								352
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/D/SI Data/Semester 6/RPL/SuratJSI/resources/views/layouts/master.blade.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 8489,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3775,
+								3775
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": -0.0,
+						"translation.y": 670.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "/D/SI Data/Semester 6/RPL/SuratJSI/app/Http/routes.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 890,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								890,
+								890
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 73.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "/D/SI Data/Semester 6/RPL/SuratJSI/resources/views/admin/lihatsm.blade.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1786,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1326,
+								1326
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": -0.0,
+						"translation.y": 201.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "SrtmskController.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1532,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1384,
+								1384
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 271.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "/D/SI Data/Semester 6/RPL/SuratJSI/resources/views/admin/inputsm.blade.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5365,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4887,
+								4887
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 722.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "/D/SI Data/Semester 6/RPL/SuratJSI/resources/views/admin/lihatsk.blade.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1960,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								465,
+								465
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": -0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 21.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 23.0
+	},
+	"pinned_build_system": "",
+	"project": "",
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"adm",
+				"app\\Http\\Controllers\\admpw.php"
+			],
+			[
+				"route",
+				"app\\Http\\routes.php"
+			],
+			[
+				"welco",
+				"app\\Http\\Controllers\\WelcomeController.php"
+			],
+			[
+				"page",
+				"app\\Http\\Controllers\\PageController.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
